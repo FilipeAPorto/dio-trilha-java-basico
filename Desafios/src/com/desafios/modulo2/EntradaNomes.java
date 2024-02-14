@@ -1,4 +1,4 @@
-package modulo2;
+package com.desafios.modulo2;
 
 import java.util.Scanner;
 

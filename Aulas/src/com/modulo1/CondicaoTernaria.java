@@ -1,3 +1,5 @@
+package com.modulo1;
+
 public class CondicaoTernaria {
     public static void main(String[] args) {
 

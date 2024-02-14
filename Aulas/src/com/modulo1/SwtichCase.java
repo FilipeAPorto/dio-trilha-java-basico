@@ -1,3 +1,5 @@
+package com.modulo1;
+
 import java.util.Scanner;
 
 public class SwtichCase {
