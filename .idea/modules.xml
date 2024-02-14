@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Atividades/Atividades.iml" filepath="$PROJECT_DIR$/Atividades/Atividades.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aulas/Aulas.iml" filepath="$PROJECT_DIR$/Aulas/Aulas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Atividades/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/Atividades/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/Projetos/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos.iml" filepath="$PROJECT_DIR$/Projetos/Projetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
     </modules>
   </component>
