@@ -1,4 +1,4 @@
-package com.modulo3.construtores;
+package com.modulo3.curso1.construtores;
 
 public class Pessoa {
 

@@ -1,4 +1,4 @@
-package com.modulo3.construtores;
+package com.modulo3.curso1.construtores;
 
 public class SistemaCadastro {
     public static void main(String[] args) {
