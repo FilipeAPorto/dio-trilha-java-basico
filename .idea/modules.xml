@@ -4,10 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aula_Modulo5.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Aula_Modulo5.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aula_Modulo5.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Aula_Modulo5.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aulas_Modulo1_4/Aulas_Modulo1_4.iml" filepath="$PROJECT_DIR$/Aulas_Modulo1_4/Aulas_Modulo1_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aulas_Modulo5.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aulas_Modulo5.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aulas_Modulo5.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aulas_Modulo5.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aulas_Modulo5.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aulas_Modulo5.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aulas.iml" filepath="$PROJECT_DIR$/Aulas/Aulas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projetos/Banco/Banco.iml" filepath="$PROJECT_DIR$/Projetos/Banco/Banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projetos/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/Projetos/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projetos/Controle de Fluxo/Controle de Fluxo.iml" filepath="$PROJECT_DIR$/Projetos/Controle de Fluxo/Controle de Fluxo.iml" />
