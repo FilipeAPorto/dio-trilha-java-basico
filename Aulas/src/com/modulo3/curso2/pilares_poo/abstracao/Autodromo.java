@@ -1,7 +1,5 @@
 package com.modulo3.curso2.pilares_poo.abstracao;
 
-import com.modulo3.curso2.pilares_poo.heranca.Veiculo;
-
 public class Autodromo {
     public static void main(String[] args) {
 
