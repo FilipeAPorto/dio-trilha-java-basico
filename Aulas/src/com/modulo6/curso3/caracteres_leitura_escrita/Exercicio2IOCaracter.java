@@ -1,4 +1,4 @@
-package com.modulo6.caracteres_leitura_escrita;
+package com.modulo6.curso3.caracteres_leitura_escrita;
 
 import java.io.*;
 import java.util.Scanner;

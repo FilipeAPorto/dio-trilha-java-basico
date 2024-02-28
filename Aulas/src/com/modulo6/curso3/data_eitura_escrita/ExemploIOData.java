@@ -1,4 +1,4 @@
-package com.modulo6.data_eitura_escrita;
+package com.modulo6.curso3.data_eitura_escrita;
 
 import java.io.*;
 import java.util.Scanner;

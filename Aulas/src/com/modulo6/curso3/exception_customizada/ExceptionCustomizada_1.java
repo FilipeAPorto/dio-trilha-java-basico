@@ -1,4 +1,4 @@
-package com.modulo6.exception_customizada;
+package com.modulo6.curso3.exception_customizada;
 
 import javax.swing.*;
 import java.io.*;

@@ -1,4 +1,4 @@
-package com.modulo6.exception;
+package com.modulo6.curso3.exception;
 
 import javax.swing.*;
 import java.io.*;

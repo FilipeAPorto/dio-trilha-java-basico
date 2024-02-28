@@ -1,4 +1,4 @@
-package com.modulo6.object_leitura_escrita;
+package com.modulo6.curso3.object_leitura_escrita;
 
 import java.io.*;
 

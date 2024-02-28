@@ -1,4 +1,4 @@
-package com.modulo6.caracteres_leitura_escrita;
+package com.modulo6.curso3.caracteres_leitura_escrita;
 
 import java.io.*;
 //Abra o teclado para escrever 3 filmes que você recomendaria e exiba esses filmes no console.
