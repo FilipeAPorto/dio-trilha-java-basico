@@ -7,11 +7,14 @@
         <option value="$PROJECT_DIR$/Aulas_Modulo5/pom.xml" />
         <option value="$PROJECT_DIR$/Aulas_Modulo6_Curso6/pom.xml" />
         <option value="$PROJECT_DIR$/Aulas_Modulo6_Curso7/pom.xml" />
+        <option value="$PROJECT_DIR$/Aulas_Modulo7_Curso2/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula_Modulo7_Curso2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Aulas_Modulo5/pom.xml" />
+        <option value="$PROJECT_DIR$/Aulas_Modulo6_Curso7/pom.xml" />
       </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
